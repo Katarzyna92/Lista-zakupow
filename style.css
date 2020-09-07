@@ -1,0 +1,13 @@
+body {
+    background-color: lightcyan;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+div {
+    margin: 10vh 25%;
+}
+
+button {
+    margin-left: 2%;
+}
